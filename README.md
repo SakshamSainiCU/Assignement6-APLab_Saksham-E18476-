@@ -32,7 +32,8 @@ Example 2:
 
 
 
-![image](https://github.com/user-attachments/assets/7aaf0f3e-9977-410e-807b-6e9827673f9c)
+![image](https://github.com/user-attachments/assets/c95f9c6e-0103-4191-a289-745480dfeb54)
+
 
 
 
@@ -82,7 +83,8 @@ Example 1:
 
 
 
-![image](https://github.com/user-attachments/assets/6189780b-5e9f-47b0-9efe-316b1ce0fa9a)
+![image](https://github.com/user-attachments/assets/d0a61fb4-ea62-464b-a2c3-d030e662db05)
+
 
 
 Input: root = [3,9,20,null,null,15,7]
