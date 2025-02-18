@@ -2,7 +2,8 @@ Problem-1: Convert Sorted Array to Binary Search Tree
 
 Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
 
- ![image](https://github.com/user-attachments/assets/b5ec5959-2036-419e-9dc5-e95a911614ae)
+![image](https://github.com/user-attachments/assets/580c972f-aa01-442c-8579-d7d6be2e306e)
+
 
 
 
@@ -20,7 +21,8 @@ Explanation: [0,-10,5,null,-3,null,9] is also accepted:
 
 
 
-![image](https://github.com/user-attachments/assets/e873f680-d26a-4d49-a62c-89e394a603b1)
+![image](https://github.com/user-attachments/assets/e6ff2804-bb6e-4ad7-84af-3e5dc8d71ffd)
+
 
 
 
